@@ -1,0 +1,12 @@
+**/*.html
+**/*.md
+**/*.min.css
+**/*.php
+
+/.idea/
+
+/vendor/
+
+/wwwRoot/
+/src/classes/
+/src/api/
